@@ -1,0 +1,14 @@
+#!/usr/bin/python
+
+# import os
+# import sys
+
+
+# _srcdir = 'src/'
+# _filepath = os.path.dirname(sys.argv[0])
+# sys.path.insert(1, os.path.join(_filepath, _srcdir))
+
+# print sys.path
+
+from funniest import funniest
+funniest.joke()
