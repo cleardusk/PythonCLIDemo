@@ -1,1 +1,1 @@
-sudo trash UNKNOWN.egg-info/ build/ dist/
+sudo trash src/*.egg-info/ build/ dist/
